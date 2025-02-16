@@ -2,6 +2,9 @@
 
 👋 Hi There! I am a results-driven Full Stack Software Developer specializing in MERN stack development, with expertise in designing, building, and optimizing scalable applications. Experienced in leading development initiatives, debugging complex system discrepancies, and improving data integrity. Adept at working across the full development lifecycle, from database management to front-end development and integration, with a focus on performance, security, and maintainability. Proven ability to bridge gaps between engineering, operations, and business needs, ensuring seamless application functionality. A proactive team leader who has successfully driven projects, implemented best practices, and enhanced system efficiency. Passionate about problem-solving, documentation, and creating robust, well-tested applications.
 
+This GitHub primarily showcases school and personal projects from before my career in commercial application development. However, these repositories reflect my skills, problem-solving approach, and commitment to continuous learning and improvement even back then. My current work resides in private company repositories, but feel free to explore, and reach out if you'd like to connect! 🚀
+
+
 ## Currently Learning
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript)  ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python) 
 

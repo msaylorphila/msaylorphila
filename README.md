@@ -1,9 +1,9 @@
 # Introduction
 
-👋 Hello, I'm a MERN stack web developer excited to pursue my new career as a software engineer. I recently completed the Full Stack LPS coding bootcamp at the University of Pennsylvania, where I gained comprehensive training and hands-on experience in developing web applications.
+👋 Hi There! I am a results-driven Full Stack Software Developer specializing in MERN stack development, with expertise in designing, building, and optimizing scalable applications. Experienced in leading development initiatives, debugging complex system discrepancies, and improving data integrity. Adept at working across the full development lifecycle, from database management to front-end development and integration, with a focus on performance, security, and maintainability. Proven ability to bridge gaps between engineering, operations, and business needs, ensuring seamless application functionality. A proactive team leader who has successfully driven projects, implemented best practices, and enhanced system efficiency. Passionate about problem-solving, documentation, and creating robust, well-tested applications.
 
 ## Currently Learning
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript)  ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)  ![AWS](https://img.shields.io/badge/AWS-orange?style=flat&logo=amazon-aws)  ![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript)  ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python) 
 
 ## Skills
 
